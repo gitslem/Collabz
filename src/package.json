@@ -1,0 +1,11 @@
+{
+  "name": "collabx-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "serve -s ../frontend/dist -l ${PORT:-10000}"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
