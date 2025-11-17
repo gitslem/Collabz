@@ -2,10 +2,16 @@
 
 Find your perfect music collaborator using AI-powered matching based on skills, genres, and preferences.
 
+Access live url ( you might wait few seconds because it's deployed on free tier on Render and Supabase.
+www.x.colsphere.com
+
 ![Status](https://img.shields.io/badge/status-ready%20to%20deploy-green)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
+<img width="1512" height="982" alt="Screenshot 2025-11-17 at 08 48 32" src="https://github.com/user-attachments/assets/48c60505-c4c4-4ade-b5d3-aa0e463755d8" />
+
+
 
 ## 🚀 Features
 
@@ -157,21 +163,6 @@ collabx/
 | `/validate-field` | POST | Validate field with AI |
 | `/save-profile` | POST | Save profile to database |
 | `/find-matches` | POST | Find matching collaborators |
-
----
-
-## 💰 Cost Breakdown
-
-### Free Tier Limits
-- **Railway**: 500 hours/month, $5 credit
-- **Vercel**: Unlimited projects, 100GB bandwidth
-- **Supabase**: 500MB database, 2GB bandwidth
-- **OpenAI**: Pay per use (~$0.10 per 100 profiles)
-
-### Estimated Monthly Cost
-- 0-100 users: **$5-10**
-- 100-1000 users: **$10-20**
-- 1000+ users: **$20-50**
 
 ---
 
